@@ -1,4 +1,4 @@
-from number_functions import dif_par_impar as dpi
+from number_functions import dif_even_odd as dpi
 import random
 
 list_range = random.randint(5,10)
