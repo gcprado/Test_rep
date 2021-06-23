@@ -11,3 +11,4 @@ Sum two list of the same range item by item and returns a tuple
     # input:  A = [3, 5, 4, 3, 6]
     #         B = [2, 3, 5, 8, 2] 
     # output: C = (2, 3)
+    # --There are two sets of even sums: (5 + 3, 6 + 2) and thre sets of odd sums: (3 + 2, 4 + 5, 3 + 8)
