@@ -18,6 +18,6 @@ between the two values obtanied inside the tuple;
     # output: C = [(2, 3), 1]
 
 --There are two sets of even sums: (5 + 3, 6 + 2)
-and thre sets of odd sums: (3 + 2, 4 + 5, 3 + 8)
+and thre sets of odd sums: (3 + 2, 4 + 5, 3 + 8);
 1 is the modular difference between 3 and 2
     
