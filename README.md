@@ -1,5 +1,4 @@
 # Test_rep
-This is a test repository/program to check how does GitHub repositories works
 
 As said in the function documentation is a simple test_program that:
 
