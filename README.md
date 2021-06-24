@@ -16,7 +16,7 @@ between the two values obtanied inside the tuple;
     # input:  A = [3, 5, 4, 3, 6]
     #         B = [2, 3, 5, 8, 2] 
     # output: C = [(2, 3), 1]
-    # 
+
 --There are two sets of even sums: (5 + 3, 6 + 2)
 and thre sets of odd sums: (3 + 2, 4 + 5, 3 + 8)
 1 is the modular difference between 3 and 2
