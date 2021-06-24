@@ -17,4 +17,3 @@ print("B =", numbers2)
 
 even_odd = dpi(numbers1, numbers2)
 print("C =", even_odd)
-a
